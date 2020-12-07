@@ -1,0 +1,57 @@
+{
+  "tasks": [
+    {
+      "name": "task1",
+      "description": "jbjbkj,nkbhvhngcjhmj",
+      "complete_status": false,
+      "owner": "test1",
+      "id": 1
+    },
+    {
+      "name": "task2",
+      "description": "kjgfjkgjfhj",
+      "complete_status": true,
+      "owner": "test1",
+      "id": 2
+    },
+    {
+      "name": "noname",
+      "description": "no description",
+      "complete_status": false,
+      "owner": "test2",
+      "id": 4
+    },
+    {
+      "name": "noname",
+      "description": "no description",
+      "complete_status": true,
+      "owner": "user",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "login": "test1",
+      "password": "1",
+      "id": 1
+    },
+    {
+      "login": "test2",
+      "password": "2",
+      "id": 2
+    },
+    {
+      "login": "test3",
+      "password": "3",
+      "id": 3
+    },
+    {
+      "login": "user",
+      "password": "1234",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
